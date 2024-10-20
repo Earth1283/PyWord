@@ -6,4 +6,6 @@ The goal of this is to not use any pips to recreate Microsoft Word in Python.
 Hence the name PyWord.
 
 # Copyright
-This is licensed under the MIT license, meaning that you are **welcome** to copy, edit, and remix this absolute garbage. You also **have the right to** sell my absolute piece of garbage for howerver much its worth. Just tell me beforehand.
+This is licensed under the MIT license, meaning that you are **welcome** to copy, edit, and remix this absolute garbage. You also **have the right to** sell my absolute piece of garbage for however much it's worth. Just tell me beforehand.
+## Note to remixers
+For those who want to build upon my project, you are more than welcome to do so. Just give me some credit in a commented line at the beginning or end. I have labeled this script reasonably well to make sure that the code is easily understood.
